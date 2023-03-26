@@ -12,6 +12,8 @@ This step will transform the data so that it can be used to create the machine l
 
 This step is gonna form the machine learning model that will be used to analyze the customer capability to return the borrowed money on time. The model is developed with Jupyter Notebook using the Scikit-Learn Framework with DecisionTree method to build the model. Furthermore, there is also that is build using Deep Learning method with TensorFlow Framework.
 
+[Machine Learning Model](https://github.com/Damed911/Celerates-Final-Project/blob/main/Proyek_Celerates.ipynb)
+
 3. **Data Visualization**
 
 This step gonna visualize the result of the two steps before. The data visualization created with Tableau that represented EDA process that is used to analyze that is use to build the machine learning model and the machine learning model prediction to analyze the capability of the customer to return the borrowed money on time.
