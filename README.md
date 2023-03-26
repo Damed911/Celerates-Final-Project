@@ -6,6 +6,8 @@
 
 This step will transform the data so that it can be used to create the machine learning model that will be applied to do the analysis process. The tools that is used to do the ETL process are Pentaho.
 
+[ETL Process](https://github.com/Damed911/Celerates-Final-Project/blob/main/Final%20Project.ktr)
+
 2. **Build The Machine Learning Model**
 
 This step is gonna form the machine learning model that will be used to analyze the customer capability to return the borrowed money on time. The model is developed with Jupyter Notebook using the Scikit-Learn Framework with DecisionTree method to build the model. Furthermore, there is also that is build using Deep Learning method with TensorFlow Framework.
